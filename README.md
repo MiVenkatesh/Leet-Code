@@ -1,5 +1,5 @@
 # CodeChef
 ---
 
-### : woman_technologist:About Me :
+### :man_technologist:About Me :
 -:telescope: I'm working as Software Engineer
